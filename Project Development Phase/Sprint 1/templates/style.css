@@ -1,0 +1,16 @@
+ul,form{
+    margin-left: 340px;
+}
+.navbar-toggler{
+    width: 47px;
+    height: 34px;
+    background-color: #4093f1;
+    border:none;
+}
+.navbar-toggler .line{
+    width: 100%;
+    float: left;
+    height: 2px;
+    background-color: #fff;
+    margin-bottom: 5px;
+}
