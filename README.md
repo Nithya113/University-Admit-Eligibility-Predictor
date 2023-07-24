@@ -1,1 +1,5 @@
-# University-Admit-Eligibility-Predictor
+# University Admit Eligibility Predictor
+
+### Demo video
+
+https://github.com/Nithya113/University-Admit-Eligibility-Predictor/assets/104290319/760a67f0-075a-4862-b5ca-ad4283b73c0b
