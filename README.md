@@ -7,7 +7,7 @@ https://github.com/Nithya113/University-Admit-Eligibility-Predictor/assets/10429
 ## Front-End Technologies:
 HTML5,
 CSS3, Bootstrap,
-JavaScript, React JS
+JavaScript
 
 ## Back-end Technologies:
 Python,
